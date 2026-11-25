@@ -1,0 +1,1 @@
+import{Hi as ys}from"./main-VS3UGIDH.js";var p=(t,r,n)=>{let e=t==null?0:t.toString().length,o=c(e,r);if(n===void 0)return o;try{return n(e,r)}catch(i){return ys("[ion-input] - Exception in provided `counterFormatter`:",i),o}};var c=(t,r)=>`${t} / ${r}`;export{p as t};

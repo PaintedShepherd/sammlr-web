@@ -1,0 +1,1 @@
+import{Kt as R}from"./main-VS3UGIDH.js";var a=(()=>{class t{constructor(){this.hasSentNotification=!1}static{this.ɵfac=function(r){return new(r||t)}}static{this.ɵprov=R({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{a as t};

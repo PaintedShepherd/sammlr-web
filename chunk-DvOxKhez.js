@@ -1,0 +1,1 @@
+import{t as Br}from"./chunk-BND7vbAv.js";import{Xn as ks,ht as AF,pn as Ze,rn as X9,rr as ot}from"./main-VS3UGIDH.js";var h=(()=>{class o{static{this.ɵfac=function(f){return new(f||o)}}static{this.ɵmod=ot({type:o})}static{this.ɵinj=Ze({imports:[ks,X9,AF,Br]})}}return o})();export{h as t};

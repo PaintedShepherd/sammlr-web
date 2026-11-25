@@ -1,0 +1,1 @@
+import{yi as f}from"./main-VS3UGIDH.js";var n=()=>{if(f!==void 0)return f.Capacitor};export{n as t};

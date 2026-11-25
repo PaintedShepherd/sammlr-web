@@ -1,0 +1,1 @@
+import{va as k,xa as D}from"./main-VS3UGIDH.js";var o=class extends k{show(i){return D(this,null,function*(){})}hide(i){return D(this,null,function*(){})}};export{o as SplashScreenWeb};

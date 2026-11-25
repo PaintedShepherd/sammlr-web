@@ -1,0 +1,1 @@
+var l=class i{constructor(t,u,n){this.image=t,this.imageUrl=u,this.title=n}static fromShopOffer(t){return t.title=t.title?t.title:``,t.url?new i(null,t.url,t.title):new i(t.image,null,t.title)}};var s;(function(i){i.SUCCESS=`SUCCESS`})(s||(s={}));export{s as n,l as t};

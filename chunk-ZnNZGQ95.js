@@ -1,0 +1,1 @@
+import{xa as D}from"./main-VS3UGIDH.js";var r=!1;function i(){return D(this,null,function*(){if(r)return;r=!0;let{register:t}=yield import(`./chunk-DKI852Mw.js`);t()})}export{i as t};

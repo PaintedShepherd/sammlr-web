@@ -1,0 +1,1 @@
+import{ga as R}from"./main-VS3UGIDH.js";var t=R(`Browser`,{web:()=>import(`./chunk-DCqwS6-j.js`).then(e=>new e.BrowserWeb)});export{t};

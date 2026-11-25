@@ -1,0 +1,1 @@
+import{xa as D}from"./main-VS3UGIDH.js";var s=()=>{let e;return{lock:()=>D(null,null,function*(){let o=e,t;return e=new Promise(n=>t=n),o!==void 0&&(yield o),t})}};export{s as t};

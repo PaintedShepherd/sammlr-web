@@ -1,0 +1,1 @@
+var t=class{static formatTimeStamp(a){return(/* @__PURE__ */ new Date(a*1e3)).toLocaleDateString()}};export{t};
